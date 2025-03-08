@@ -14,7 +14,7 @@
 ❀ **Database Systems**: PostgreSQL  
 ❀ **CRM Systems**: Salesforce, Powerlink
 
-## Projects  
+## Projects ♖  
 ❀ BeSafe Hackathon 2025 – QueenB X AppsFlyer  
 ❀ Asteroid Data Analysis Project  
 ❀ Assembler Program  
