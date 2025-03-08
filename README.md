@@ -1,4 +1,4 @@
-##  About Me ♡
+## About Me ♡
 ❀ Computer Science student | ❀ Passionate about problem-solving & technology |  
 ❀ Focused on software development, algorithms, and system design  
 
@@ -14,11 +14,10 @@
 ❀ **Database Systems**: PostgreSQL  
 ❀ **CRM Systems**: Salesforce, Powerlink
 
-
 ## Projects  
-❀ BeSafe Hackathon 2025 – QueenB X AppsFlyer |
-❀ Asteroid Data Analysis Project |
-❀ Assembler Program |
+❀ BeSafe Hackathon 2025 – QueenB X AppsFlyer  
+❀ Asteroid Data Analysis Project  
+❀ Assembler Program  
 ❀ A variety of coding exercises in Java, C, and Python
 
 ## Get in Touch ☏
