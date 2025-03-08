@@ -1,5 +1,3 @@
-## Hi there👋
-
 ## About Me ♡ 
 ❀ Computer Science student | ❀ Passionate about problem-solving & technology |  
 ❀ Focused on software development, algorithms, and system design  
