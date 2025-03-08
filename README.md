@@ -1,7 +1,6 @@
-![image](https://github.com/user-attachments/assets/62a08617-913a-4826-9631-72695801d1c2)## About Me ♡ 
+##  About Me ♡
 ❀ Computer Science student | ❀ Passionate about problem-solving & technology |  
 ❀ Focused on software development, algorithms, and system design  
-
 
 ## Tech Stack ✎
 ❀ High-Level Programming Languages: Java, Python, C,JavaScript, Node.js  | ❀ Low-Level Programming Languages: Assembly |
@@ -15,7 +14,5 @@
 ❀ Assembler Program |
 ❀ A variety of coding exercises in Java, C, and Python
 
-
 ## Get in Touch ☏
-![image](https://github.com/user-attachments/assets/b1c2bc59-0ef9-4e1f-b330-dd508c8423ef)
 **LinkedIn:** https://www.linkedin.com/in/maya-katan/ 
