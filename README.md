@@ -1,4 +1,4 @@
-## About Me ♡ 
+![image](https://github.com/user-attachments/assets/62a08617-913a-4826-9631-72695801d1c2)## About Me ♡ 
 ❀ Computer Science student | ❀ Passionate about problem-solving & technology |  
 ❀ Focused on software development, algorithms, and system design  
 
@@ -9,7 +9,7 @@
 ❀ Database Management: SQL | ❀ Data Formats: XML, JSON | ❀ Operating Systems: Linux (Ubuntu) |
 ❀ Database Systems: PostgreSQL | ❀ CRM Systems: Salesforce, Powerlink
 
-## Projects ♖ 
+## Projects  
 ❀ BeSafe Hackathon 2025 – QueenB X AppsFlyer |
 ❀ Asteroid Data Analysis Project |
 ❀ Assembler Program |
@@ -17,4 +17,5 @@
 
 
 ## Get in Touch ☏
+![image](https://github.com/user-attachments/assets/b1c2bc59-0ef9-4e1f-b330-dd508c8423ef)
 **LinkedIn:** https://www.linkedin.com/in/maya-katan/ 
