@@ -15,8 +15,7 @@ I'm a **Computer Science student** with a strong passion for **problem-solving, 
 - **BeSafe Hackathon 2025** – QueenB X AppsFlyer  
 - **Asteroid Data Analysis** – A project analyzing asteroid trajectories and space data  
 - **Assembler Program** – Built an assembler in Assembly for low-level processing  
-- **QueenB Projects Repository 👩‍💻✨** – A collection of example projects developed for QueenB participants to serve as inspiration and learning resources.  
-  🔗 [View Repository](https://github.com/QueenB-Organization/Projects-Repository)  
+- **QueenB Projects Repository** – A collection of example projects developed for QueenB participants to serve as inspiration and learning resources.  
 - **Coding Challenges** – Various problem-solving exercises in Java, C, and Python  
 
 ## Get in Touch  
