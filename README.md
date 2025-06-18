@@ -1,5 +1,5 @@
 # Maya Katan  
-<img src="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/assets/banner.png?raw=true" width="600"/>
+<img src="[https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/assets/banner.png?raw=true](https://www.canva.com/design/DAGqtcgmyKI/tAo1JC02K6J4NhOaF_EyZw/view?utm_content=DAGqtcgmyKI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbfbe359486)" width="600"/>
 
 ## About Me  
 I'm a **Computer Science student** with a strong passion for **problem-solving, software development, and system design**. My focus is on writing clean, efficient code and continuously improving my technical skills.  
