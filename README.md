@@ -1,5 +1,5 @@
 # Maya Katan  
-![image](https://github.com/user-attachments/assets/ede8452a-201a-4436-9a5f-70099eb597a1)
+<img src="https://github.com/user-attachments/assets/ede8452a-201a-4436-9a5f-70099eb597a1" width="400"/>
 
 ## About Me  
 I'm a **Computer Science student** with a strong passion for **problem-solving, software development, and system design**. My focus is on writing clean, efficient code and continuously improving my technical skills.  
