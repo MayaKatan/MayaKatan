@@ -7,7 +7,7 @@ Background in military tech (Unit 8200), now focused on developing clean, mainta
 Java | Python | C | JavaScript | Node.js | React | Assembly | Git | PostgreSQL | Linux
 
 ## Community Involvement
-- Volunteer & mentor [QueenB]([https://queenb.org.il](https://queenb.org.il/en/en-home/))  
+- Volunteer & mentor [QueenB](https://queenb.org.il/en/en-home/)
 - Advocate for women in tech and youth from underserved communities
 
 ## What You'll Find Here
