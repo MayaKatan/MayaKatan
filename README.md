@@ -6,7 +6,7 @@ Background in military tech (Unit 8200), now focused on developing clean, mainta
 ## Tech Stack
 Java | Python | C | JavaScript | Node.js | React | Assembly | Git | PostgreSQL | Linux
 
-## Community Involvement
+## Tech Community Involvement
 - Volunteer & mentor [QueenB](https://queenb.org.il/en/en-home/)
 - Advocate for women in tech and youth from underserved communities
 
