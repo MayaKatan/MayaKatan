@@ -1,23 +1,22 @@
-# Maya Katan  
-<img src="https://github.com/MayaKatan/Java_Developments/blob/main/GIT%20PIC.png?raw=true" width="600"/>
+# Hi, I'm Maya 👋
+I'm a Computer Science student with a practical, hands-on approach to learning.  
+I enjoy solving real problems through code and understanding how systems work — from low-level Assembly to high-level design.  
+Background in military tech (Unit 8200), now focused on developing clean, maintainable software.
 
-## About Me  
-I'm a **Computer Science student** with a strong passion for **problem-solving, software development, and system design**. My focus is on writing clean, efficient code and continuously improving my technical skills.  
+## Tech Stack
+Java | Python | C | JavaScript | Node.js | React | Assembly | Git | PostgreSQL | Linux
 
-## Tech Stack  
-- **Programming Languages:** Java, Python, C, JavaScript, Node.js, Assembly  
-- **Web Development:** HTML, CSS, React  
-- **Version Control:** Git, GitHub  
-- **Data Analysis & Databases:** SQL, Pandas, Matplotlib, PostgreSQL  
-- **Operating Systems:** Linux (Ubuntu)  
-- **CRM Systems:** Salesforce, Powerlink  
+## Community Involvement
+- Volunteer & mentor [@QueenB]([https://queenb.org.il](https://queenb.org.il/en/en-home/))  
+- Advocate for women in tech and youth from underserved communities
 
-## Projects  
-- **BeSafe Hackathon 2025** – QueenB X AppsFlyer  
-- **Asteroid Data Analysis** – A project analyzing asteroid trajectories and space data  
-- **Assembler Program** – Built an assembler in Assembly for low-level processing  
-- **QueenB Projects Repository** – A collection of example projects developed for QueenB participants to serve as inspiration and learning resources.  
-- **Coding Challenges** – Various problem-solving exercises in Java, C, and Python  
+## What You'll Find Here
+- Web development projects, including a site that won 2nd place in the advanced track of the BeSafe Hackathon by AppsFlyer.
+- Data analysis projects in Python, such as asteroid trajectory studies  
+- Websites created by my mentees at QueenB.
+- Low-level programming with Assembly language (assembler project)  
+- Solutions to common coding challenges and exam problems from the Open University  
+- University assignments and coding exercises in C and Java  
 
 ## Get in Touch  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maya-katan/)  
