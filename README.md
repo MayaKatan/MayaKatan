@@ -19,5 +19,4 @@ Java | Python | C | JavaScript | Node.js | React | Assembly | Git | PostgreSQL |
 - University assignments and coding exercises in C and Java  
 
 ## Get in Touch  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maya-katan/)  
-[![Website](https://img.shields.io/badge/Website-0077B5?lWebsite&logoColor=white)](https://mayakatan.github.io/PersonalWebsite/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maya-katan/)  [![Website](https://img.shields.io/badge/Website-0077B5?lWebsite&logoColor=white)](https://mayakatan.github.io/PersonalWebsite/)
