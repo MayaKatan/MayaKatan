@@ -20,7 +20,6 @@ Java | Python | C | JavaScript | Node.js | React | Assembly | Git | PostgreSQL |
 
 ## Get in Touch  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maya-katan/)  
-[![Personal Website](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/maya-katan/](https://mayakatan.github.io/PersonalWebsite/
-))  
+[![Personal Website](https://img.shields.io/badge/אתר אישי-0077B5?logo=google-chrome&logoColor=white)](https://mayakatan.github.io/PersonalWebsite/)
 
 
