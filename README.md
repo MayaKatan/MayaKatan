@@ -18,5 +18,5 @@ Background in military tech (Unit 8200) and hands-on development experience in f
 - Algorithmic problem solving (LeetCode)
 
 ## Get in Touch  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maya-katan/)
-[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white)](https://mayakatan.github.io/PersonalWebsite/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-007373?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maya-katan/)
+[![Website](https://img.shields.io/badge/-Website-007373?style=flat-square&logo=google-chrome&logoColor=white)](https://mayakatan.github.io/PersonalWebsite/)
