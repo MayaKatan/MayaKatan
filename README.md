@@ -13,11 +13,9 @@ Background in military tech (Unit 8200) and hands-on development experience in f
 
 ## What You'll Find Here
 - Web development projects, including a site that won 2nd place in the advanced track of the BeSafe Hackathon by AppsFlyer.
-- Data analysis projects in Python, such as asteroid trajectory studies  
 - Websites created by my mentees at QueenB.
-- Low-level programming with Assembly language (assembler project)  
-- Solutions to common coding challenges and exam problems from the Open University  
-- University assignments and coding exercises in C and Java  
+- Selected coursework from my B.Sc. in Computer Science at The Open University
+- Algorithmic problem solving (LeetCode)
 
 ## Get in Touch  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maya-katan/)  [![Website](https://img.shields.io/badge/Website-0077B5?lWebsite&logoColor=white)](https://mayakatan.github.io/PersonalWebsite/)
