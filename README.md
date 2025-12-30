@@ -1,14 +1,15 @@
 # Hi, I'm Maya 👋
-I'm a Computer Science student with a practical, hands-on approach to learning.  
-I enjoy solving real problems through code and understanding how systems work - from low-level Assembly to high-level design.  
-Background in military tech (Unit 8200), now focused on developing clean, maintainable software.
+I'm a Software Developer and Computer Science student.
+I specialize in Python, GUI development, and image processing workflows.
+Experienced in creative problem-solving, system integration, and building maintainable, reliable software.
+Background in military tech (Unit 8200) and hands-on development experience in fast-paced environments.
 
 ## Tech Stack
-Java | Python | C | JavaScript | Node.js | React | Assembly | Git | PostgreSQL | Linux
+Python | Tkinter | CustomTkinter | PIL | rawpy | ADB | ExifTool | Git | Linux | Java | C | JavaScript | Node.js | React | PostgreSQL | Assembly
 
 ## Tech Community Involvement
-- Volunteer & mentor [QueenB](https://queenb.org.il/en/en-home/)
-- Advocate for women in tech and youth from underserved communities
+- LevelUP Program Coordinator in [QueenB](https://queenb.org.il/en/en-home/)
+- Collaborating with industry and organizational partners to create opportunities and expand the program’s impact.
 
 ## What You'll Find Here
 - Web development projects, including a site that won 2nd place in the advanced track of the BeSafe Hackathon by AppsFlyer.
