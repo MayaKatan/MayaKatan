@@ -5,7 +5,7 @@ Experienced in creative problem-solving, system integration, and building mainta
 Background in military tech (Unit 8200) and hands-on development experience in fast-paced environments.
 
 ## Tech Stack
-Python | Tkinter | CustomTkinter | PIL | rawpy | ADB | ExifTool | Git | Linux | Java | C | JavaScript | Node.js | React | PostgreSQL | Assembly
+Python | Tkinter | CustomTkinter | PIL | rawpy | ADB | ExifTool | Git | Linux | Java | C | JavaScript | Node.js | React | SQL | Assembly
 
 ## Tech Community Involvement
 - LevelUP Program Coordinator in [QueenB](https://queenb.org.il/en/en-home/)
